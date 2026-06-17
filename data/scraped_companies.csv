@@ -1,0 +1,201 @@
+name,rating,reviews,salary
+TCS,3.3,1.2L Reviews,10.2L Salaries
+Accenture,3.7,74.5k Reviews,7.1L Salaries
+Wipro,3.6,65.9k Reviews,4.9L Salaries
+Cognizant,3.7,62.2k Reviews,6.1L Salaries
+Capgemini,3.6,54.2k Reviews,4.9L Salaries
+HDFC Bank,3.8,53.3k Reviews,1.5L Salaries
+Infosys,3.5,49.5k Reviews,5.3L Salaries
+HCLTech,3.4,46.6k Reviews,3.9L Salaries
+ICICI Bank,3.9,46.4k Reviews,1.5L Salaries
+Tech Mahindra,3.3,43.9k Reviews,2.9L Salaries
+Genpact,3.6,43k Reviews,2.4L Salaries
+TP,3.9,39.2k Reviews,1L Salaries
+Jio,4.4,33.9k Reviews,62.2k Salaries
+Axis Bank,3.6,33.8k Reviews,1L Salaries
+Concentrix Corporation,3.6,32.7k Reviews,1.3L Salaries
+Amazon,3.9,31.9k Reviews,1.6L Salaries
+Reliance Retail,3.9,27.6k Reviews,74.5k Salaries
+iEnergizer,4.6,27.3k Reviews,24.9k Salaries
+LTIMindtree,3.6,26.8k Reviews,2L Salaries
+HDB Financial Services,3.9,26.1k Reviews,49.3k Salaries
+IBM,3.9,26k Reviews,2.2L Salaries
+Larsen & Toubro Limited,3.9,24.2k Reviews,76.7k Salaries
+Deloitte,3.6,23.6k Reviews,2.7L Salaries
+Kotak Mahindra Bank,3.6,22.8k Reviews,87.1k Salaries
+Reliance Industries,4.0,20.5k Reviews,74.4k Salaries
+Vodafone Idea,3.9,17.7k Reviews,49.3k Salaries
+Bharti Airtel,3.8,17.3k Reviews,50.5k Salaries
+BYJU'S,3.2,16.4k Reviews,52.1k Salaries
+WNS,3.3,15.5k Reviews,71.2k Salaries
+IDFC FIRST Bank,3.9,15k Reviews,50.4k Salaries
+Ernst & Young,3.4,14.8k Reviews,1.5L Salaries
+IndusInd Bank,3.4,14.5k Reviews,53.1k Salaries
+AU Small Finance Bank,3.8,14.4k Reviews,30.1k Salaries
+Tata Motors,4.1,14.3k Reviews,44.4k Salaries
+Bajaj Finserv,3.9,13.4k Reviews,32k Salaries
+Muthoot FinCorp,4.5,13.3k Reviews,9.6k Salaries
+Flipkart,3.9,13.2k Reviews,57.1k Salaries
+PwC,3.3,12.9k Reviews,1.3L Salaries
+HDFC Life,3.8,12.3k Reviews,34.1k Salaries
+Mahindra & Mahindra,4.0,12.2k Reviews,41.2k Salaries
+Infosys BPM,3.5,12.2k Reviews,77.4k Salaries
+DXC Technology,3.6,12.2k Reviews,75.2k Salaries
+Bandhan Bank,3.7,11.4k Reviews,26.9k Salaries
+Digitide Solutions,3.5,10.5k Reviews,27.3k Salaries
+Yes Bank,3.7,10.4k Reviews,43k Salaries
+Mphasis,3.3,10.4k Reviews,75.2k Salaries
+Tata Steel,4.0,10.1k Reviews,34.8k Salaries
+Quess,3.8,9.9k Reviews,31.6k Salaries
+Asian Paints,3.9,9.8k Reviews,26.5k Salaries
+Startek,3.0,9.7k Reviews,25k Salaries
+UltraTech Cement,4.1,9.6k Reviews,25k Salaries
+Maruti Suzuki,4.1,9.6k Reviews,29.4k Salaries
+Paytm,3.2,9.5k Reviews,34.5k Salaries
+Bajaj Finance,3.9,9.4k Reviews,23.5k Salaries
+Shriram Finance,3.9,9.3k Reviews,15.8k Salaries
+Sutherland Global Services,3.4,9.2k Reviews,36.2k Salaries
+Equitas Small Finance Bank,4.3,9k Reviews,14.1k Salaries
+Coforge,3.3,9k Reviews,59.1k Salaries
+Wells Fargo,3.6,8.8k Reviews,64.2k Salaries
+Cipla,4.1,8.7k Reviews,26.9k Salaries
+EXL Service,3.6,8.7k Reviews,45.6k Salaries
+Ericsson,3.9,8.5k Reviews,42.7k Salaries
+Samsung,3.9,8.4k Reviews,26.4k Salaries
+Dr. Reddy's,4.0,8.3k Reviews,26.1k Salaries
+Optum Global Solutions,4.0,8.1k Reviews,51.9k Salaries
+JSW Steel,3.9,8k Reviews,32.1k Salaries
+JPMorgan Chase & Co.,3.8,7.9k Reviews,92.9k Salaries
+Delhivery,3.8,7.9k Reviews,22.1k Salaries
+ICICI Prudential Life Insurance,3.9,7.9k Reviews,23.4k Salaries
+Hexaware Technologies,3.4,7.8k Reviews,56.2k Salaries
+Sun Pharmaceutical Industries,4.1,7.8k Reviews,23.7k Salaries
+Ujjivan Small Finance Bank,4.0,7.8k Reviews,13.8k Salaries
+Jana Small Finance Bank,3.7,7.7k Reviews,14.1k Salaries
+Zydus Lifesciences,4.0,7.6k Reviews,20.5k Salaries
+HGS,3.7,7.6k Reviews,20.4k Salaries
+Ekart Logistics,3.9,7.6k Reviews,17.1k Salaries
+Amazon Development Centre India,3.8,7.5k Reviews,39.9k Salaries
+KPMG India,3.4,7.5k Reviews,70.3k Salaries
+Lupin,4.1,7.4k Reviews,22.5k Salaries
+Axis Max Life Insurance,4.0,7.4k Reviews,20.2k Salaries
+L&T Construction,4.0,7.3k Reviews,19.2k Salaries
+ITC,3.9,7.3k Reviews,25.3k Salaries
+Hindustan Unilever,4.2,7.3k Reviews,20.6k Salaries
+Megha Engineering & Infrastructures,3.9,7.1k Reviews,19.2k Salaries
+Tata Projects,4.2,7k Reviews,22.7k Salaries
+Cholamandalam Investment & Finance,3.8,6.8k Reviews,13.4k Salaries
+Bajaj Life Insurance,3.8,6.8k Reviews,17.9k Salaries
+L&T Technology Services,3.1,6.7k Reviews,45.1k Salaries
+FIS,3.8,6.6k Reviews,39.2k Salaries
+Oracle,3.3,6.6k Reviews,65.4k Salaries
+Omega Healthcare,3.8,6.6k Reviews,28k Salaries
+JLL,4.1,6.5k Reviews,25.5k Salaries
+Muthoot Finance,3.7,6.5k Reviews,13.2k Salaries
+IIFL Finance,4.0,6.4k Reviews,14k Salaries
+eClerx,3.1,6.4k Reviews,33.6k Salaries
+Indian Army,4.7,6.3k Reviews,9.4k Salaries
+DMart,3.9,6.3k Reviews,19.3k Salaries
+PolicyBazaar,3.7,6.2k Reviews,18.5k Salaries
+Piramal Finance,4.2,6.2k Reviews,12.8k Salaries
+Virtusa Consulting Services,3.7,6.2k Reviews,57.9k Salaries
+Indiamart Intermesh,3.5,6.1k Reviews,22.1k Salaries
+HSBC Group,3.8,6.1k Reviews,45.6k Salaries
+HCL Group,3.5,6.1k Reviews,38.6k Salaries
+SMFG India Credit,3.9,6.1k Reviews,11.6k Salaries
+Access Healthcare,3.7,6k Reviews,29.5k Salaries
+BigBasket,3.9,5.9k Reviews,20.1k Salaries
+Siemens,4.0,5.9k Reviews,34.9k Salaries
+ICICI Lombard General Insurance Company,3.5,5.9k Reviews,20.5k Salaries
+Manappuram Finance,3.9,5.9k Reviews,9.7k Salaries
+Firstsource Solutions,3.5,5.9k Reviews,25.2k Salaries
+GlobalLogic,3.5,5.9k Reviews,41.9k Salaries
+Aurobindo Pharma,4.0,5.8k Reviews,20.4k Salaries
+Shapoorji Pallonji Group,4.1,5.8k Reviews,15.5k Salaries
+Tata Capital,3.9,5.8k Reviews,16.4k Salaries
+UST,3.7,5.8k Reviews,41.4k Salaries
+Standard Chartered,3.6,5.8k Reviews,42.4k Salaries
+Swiggy,3.7,5.7k Reviews,24.6k Salaries
+Mahindra Finance,3.8,5.7k Reviews,12.3k Salaries
+Apollo Hospitals,4.0,5.7k Reviews,17k Salaries
+Udaan,3.9,5.7k Reviews,14.8k Salaries
+Bosch Global Software Technologies,3.7,5.7k Reviews,41.4k Salaries
+Citicorp,3.6,5.6k Reviews,55k Salaries
+Ashok Leyland,4.0,5.6k Reviews,18.9k Salaries
+Hero MotoCorp,4.1,5.5k Reviews,16.3k Salaries
+CGI Inc,4.0,5.5k Reviews,47.8k Salaries
+SBI Cards & Payment Services,3.6,5.4k Reviews,16.2k Salaries
+Cyient,3.6,5.4k Reviews,27.6k Salaries
+NTT DATA,3.8,5.4k Reviews,39.3k Salaries
+Kalpataru Projects International,4.2,5.4k Reviews,14.1k Salaries
+BNY,3.6,5.4k Reviews,32.3k Salaries
+IQVIA,3.7,5.3k Reviews,32.3k Salaries
+Nagarjuna Construction Company,4.0,5.3k Reviews,12.7k Salaries
+Schneider Electric,4.1,5.3k Reviews,26.2k Salaries
+SBI Life Insurance Company,3.7,5.2k Reviews,12k Salaries
+JustDial,3.4,5.2k Reviews,15.3k Salaries
+CBRE,4.1,5.2k Reviews,19.4k Salaries
+TVS Motor,3.8,5.2k Reviews,16.6k Salaries
+Persistent Systems,3.6,5.1k Reviews,47.2k Salaries
+State Bank of India,3.8,5.1k Reviews,11.8k Salaries
+KEC International,4.0,5k Reviews,13.7k Salaries
+Atos,3.8,5k Reviews,33.5k Salaries
+ITC Infotech,3.8,5k Reviews,30.3k Salaries
+Amdocs,3.6,5k Reviews,37.7k Salaries
+vivo,4.0,4.9k Reviews,13k Salaries
+Varun Beverages,4.0,4.9k Reviews,12.3k Salaries
+JBM Group,3.9,4.9k Reviews,14.3k Salaries
+Utkarsh Small Finance Bank,3.6,4.9k Reviews,11.6k Salaries
+Ecom Express,4.1,4.8k Reviews,9.3k Salaries
+Nagarro,3.9,4.8k Reviews,33.9k Salaries
+Eviden,3.6,4.8k Reviews,26.6k Salaries
+Randstad,3.7,4.8k Reviews,17.4k Salaries
+Bosch,4.1,4.7k Reviews,21.3k Salaries
+EY Global Delivery Services ( EY GDS),3.5,4.7k Reviews,53.9k Salaries
+Intas Pharmaceuticals,4.1,4.7k Reviews,18k Salaries
+Havells,3.9,4.7k Reviews,15.7k Salaries
+L&T Finance,3.9,4.7k Reviews,12.2k Salaries
+Hewlett Packard Enterprise,4.0,4.7k Reviews,27.8k Salaries
+Aditya Birla Fashion and Retail,4.0,4.7k Reviews,13.4k Salaries
+R1 RCM,3.8,4.7k Reviews,22.4k Salaries
+Hetero,3.9,4.7k Reviews,15.6k Salaries
+Cars24,3.4,4.7k Reviews,16k Salaries
+Tata AIA Life Insurance,3.9,4.6k Reviews,14.9k Salaries
+Mahindra Logistics,3.7,4.6k Reviews,13k Salaries
+Home Credit Finance,4.0,4.6k Reviews,9.2k Salaries
+Dell,3.8,4.6k Reviews,29.4k Salaries
+Berger Paints,3.7,4.6k Reviews,10.8k Salaries
+Lenskart,3.3,4.6k Reviews,13.6k Salaries
+Deutsche Bank,3.8,4.6k Reviews,38.4k Salaries
+Motilal Oswal Financial Services,3.7,4.5k Reviews,13.6k Salaries
+OPPO,3.9,4.5k Reviews,11.8k Salaries
+Hyundai Motor India Limited,4.1,4.5k Reviews,14.6k Salaries
+TeamLease Services,3.9,4.4k Reviews,16.5k Salaries
+VE Commercial Vehicles,3.9,4.4k Reviews,14.4k Salaries
+Thermax Limited,4.2,4.3k Reviews,13.5k Salaries
+Jubilant Foods Works,3.7,4.3k Reviews,9.8k Salaries
+Carelon Global Solutions,3.9,4.3k Reviews,29.3k Salaries
+Macleods Pharmaceuticals,3.7,4.3k Reviews,16k Salaries
+Aakash Educational Services,3.2,4.3k Reviews,14k Salaries
+Bajaj Auto,3.8,4.2k Reviews,14.8k Salaries
+Jindal Steel Limited,3.9,4.2k Reviews,16.3k Salaries
+State Street Corporation,3.5,4.2k Reviews,34.3k Salaries
+Hindalco Industries,4.2,4.2k Reviews,13.3k Salaries
+LG Electronics,3.8,4.2k Reviews,11.3k Salaries
+Kogta Financial India Limited,4.6,4.2k Reviews,2k Salaries
+HDFC ERGO General Insurance,4.0,4.1k Reviews,12.2k Salaries
+DCB Bank,3.8,4.1k Reviews,10k Salaries
+Royal Enfield,4.1,4.1k Reviews,15.1k Salaries
+John Deere,4.0,4.1k Reviews,15.7k Salaries
+RBL Bank,3.5,4.1k Reviews,18.7k Salaries
+Tata Communications,3.8,4.1k Reviews,23.7k Salaries
+Publicis Sapient,3.2,4.1k Reviews,33.5k Salaries
+Cummins,4.3,4.1k Reviews,15.7k Salaries
+Alembic Pharmaceuticals,3.9,4k Reviews,15.6k Salaries
+Bank of America,4.1,4k Reviews,30.3k Salaries
+Cloudnine Hospital,4.5,4k Reviews,3.1k Salaries
+Pidilite Industries,4.2,4k Reviews,12.3k Salaries
+Grasim Industries,4.0,4k Reviews,13.4k Salaries
+Aditya Birla Sun Life Insurance,4.0,4k Reviews,10.6k Salaries
+Oyo Rooms,3.0,3.9k Reviews,13.6k Salaries
+PNB MetLife,3.3,3.9k Reviews,8.2k Salaries
